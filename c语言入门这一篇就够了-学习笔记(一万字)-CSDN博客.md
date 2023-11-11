@@ -1,12 +1,3 @@
- 
-
-内容来自慕课网，个人学习笔记。加上了mtianyan标签标记知识点。
-
-C语言入门 -> [Linux](https://so.csdn.net/so/search?q=Linux&spm=1001.2101.3001.7020) C语言编程基本原理与实践 -> Linux C语言指针与内存 -> Linux C语言结构体
-
-![mark](https://img-blog.csdnimg.cn/img_convert/5d1daf29466eb5f9b82fb8df5680ca7f.png)
-
-https://www.imooc.com/course/programdetail/pid/37
 
 ### c语言入门
 
@@ -1286,11 +1277,3 @@ int main()
 	return 0;    
 }
 ```
-
- 
-
-文章知识点与官方知识档案匹配，可进一步学习相关知识
-
-[C技能树](https://edu.csdn.net/skill/c/?utm_source=csdn_ai_skill_tree_blog)[首页](https://edu.csdn.net/skill/c/?utm_source=csdn_ai_skill_tree_blog)[概览](https://edu.csdn.net/skill/c/?utm_source=csdn_ai_skill_tree_blog)182074 人正在系统学习中
-
-本文转自 <https://blog.csdn.net/qq_23079443/article/details/81108901?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169966400416800213034424%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169966400416800213034424&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-81108901-null-null.142^v96^pc_search_result_base9&utm_term=c%E8%AF%AD%E8%A8%80&spm=1018.2226.3001.4187>，如有侵权，请联系删除。
